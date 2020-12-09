@@ -64,6 +64,12 @@ Laravel 5
 For Laravel 5 support, visit the [creitive/laravel5-breadcrumbs](https://github.com/creitive/laravel5-breadcrumbs) package.
 
 
+Laravel 7+
+---------
+
+For Laravel 7+ support, visit the [creitive/laravel-breadcrumbs](https://github.com/creitive/laravel-breadcrumbs) package.
+
+
 License
 -------
 
